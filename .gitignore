@@ -2,3 +2,5 @@ packages/*
 !packages/repositories.config
 *.sw*
 test-results
+bin
+*~
